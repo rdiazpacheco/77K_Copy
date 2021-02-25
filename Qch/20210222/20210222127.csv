@@ -1,0 +1,7 @@
+# Date: 20210222
+# Operator: RDP
+# Notes: New Rig, 77 K, 0.5 quench
+# Tap_cm: 5.0
+# Sample: DCCPnSn_00
+Tap [uV],Shunt [A],Supply [A],Time [S],Hall [A],Cernox [T]
+1.400000,0.230000,0.000000,0.060043,37.059260,-4.419808
