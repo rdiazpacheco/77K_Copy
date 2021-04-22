@@ -1,0 +1,7 @@
+# Date: 20210420
+# Operator: RDP
+# Notes: Precision Test 1, Oct0107 T2
+# Tap_cm: 5.0
+# Sample: PT_06
+Tap [uV],Shunt [A],Supply [A],Input_5 [uV],Time [S],Hall [A],Cernox [T]
+12.400000,-0.070000,0.000000,-9.800000,0.061444,8.890000,-4.372549
